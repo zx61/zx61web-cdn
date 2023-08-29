@@ -1,1 +1,0 @@
-import{_ as s}from"./chunk-0f9d6c2a.js";const e={};function r(c,n){return" 22sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss ssssssssssssssssssssssssss22 "}const _=s(e,[["render",r]]);export{_ as default};
