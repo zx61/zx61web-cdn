@@ -1,1 +1,0 @@
-import{_ as t,o as a,c,k as e,F as n,b as o}from"./chunk-CiXiLY6i.js";const r={},s=o("br",null,null,-1);function _(l,d){return a(),c(n,null,[e(" 分需要私钥签名和不需要"),s,e(" 自动识别abi名、参数数量/类型、参数值示例、返回值类型解析 ")],64)}const i=t(r,[["render",_]]);export{i as default};
